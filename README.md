@@ -130,7 +130,7 @@ chess-game/
 
 ## 👨‍💻 Author
 
-**Hari Krithick**
+**Harikrithick**
 
 Created using Python and Tkinter.
 
